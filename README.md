@@ -18,4 +18,4 @@ Use wlanapi (Native Wifi API) library.
 ![CuckooSandbox V2.0.6](https://raw.githubusercontent.com/Neosama/AntiSandBox-with-WIFI/master/cuckoo_2_0_6.jpg)  
 
 ### FalconSandbox V8.10
-![FalconSandbox V8.10](https://raw.githubusercontent.com/Neosama/AntiSandBox-with-WIFI/master/FalconSandbox v8_10.png)  
+![FalconSandbox V8.10](https://raw.githubusercontent.com/Neosama/AntiSandBox-with-WIFI/master/FalconSandbox_v8_10.png)  
